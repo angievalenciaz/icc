@@ -29,8 +29,8 @@ def mergeSort(alist):
 
     return alist
 
-a=mergeSort(alist)
-print(a)
+b=mergeSort(alist)
+print(b)
 
 
 
